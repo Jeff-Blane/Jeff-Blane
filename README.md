@@ -90,28 +90,23 @@ My work sits at the intersection of red team operations, custom implant developm
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jeff-Blane&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-Blane&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9&langs_count=6" alt="Top Languages" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeff-Blane&theme=radical&hide_border=true&background=0D1117&stroke=E63946&ring=E63946&fire=E63946&currStreakLabel=E63946" alt="GitHub Streak" />
-
-</div>
-
 ---
 
 <div align="center">
 
-#### 💀 Most of my work lives in private repos. If you know, you know.
+```
+$ whoami
+  offensive security operator
+
+$ uptime
+  15+ years breaking things professionally
+
+$ cat /etc/status
+  most of my work lives in private repos. if you know, you know.
+```
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Jeff-Blane&style=flat-square&color=E63946" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Jeff-Blane&style=flat-square&color=555555" alt="Profile Views" />
 
 </div>
